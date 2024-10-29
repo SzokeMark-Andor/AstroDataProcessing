@@ -53,7 +53,7 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 If you use this project in your research, please cite it as follows:
 
 ## Harvard Style
-Szoke, M.-A. (2024) Analysis of NGC 628 Galaxy from EMPIRE Survey, GitHub. Available at: [https://github.com/username/ngc628-galaxy-analysis](https://github.com/username/ngc628-galaxy-analysis).
+Szoke, M.-A. (2024b) Szoke Mark-Andor, Astronomic data processing, GitHub. Available at: https://github.com/SzokeMark-Andor/AstroDataProcessing. 
 
 ## IEEE Format
-M.-A. Szoke, “Analysis of NGC 628 Galaxy from EMPIRE Survey,” GitHub, 2024. [Online]. Available: [https://github.com/username/ngc628-galaxy-analysis](https://github.com/username/ngc628-galaxy-analysis). [Accessed: Day Month Year].
+M.-A. Szoke, “Szoke Mark-Andor, Astronomic data processing,” GitHub, 2024. [Online]. Available: https://github.com/SzokeMark-Andor/AstroDataProcessing. [Accessed: Day Month Year].
